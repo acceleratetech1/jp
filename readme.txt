@@ -1,5 +1,5 @@
 =========================================
-== Spring JPetStore sample application ==[3l
+== Spring JPetStore sample application ==[3l}
 =========================================
 
 @author Juergen Hoeller
